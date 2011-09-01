@@ -8,7 +8,7 @@
 2;120.00;2009-01-15
 2;77.00;2009-02-10
 501897498
-sitkiewicz krystyna 22
+sitkiewicz Ola 22
 
 dekoder jurka 073640225878
 dekoder moj 073696618889
@@ -16,3 +16,6 @@ dekoder moj 073696618889
 dodana linia
  1
 efAFDSSAFGH TFRGDF
+
+
+test 55
