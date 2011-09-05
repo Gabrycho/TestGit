@@ -14,3 +14,7 @@ dekoder jurka 073640225878
 dekoder moj 073696618889
 
 2
+
+ to jest test
+
+ssh
